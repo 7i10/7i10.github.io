@@ -17,3 +17,6 @@ nav { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); fo
 nav a { margin-right: 16px; }
 table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
 th, td { border-bottom: 1px solid var(--line); padding: 8px 6px; text-align: left; vertical-align: top; }
+.profile { display: flex; align-items: center; gap: 16px; margin-bottom: 8px; }
+.profile img { border-radius: 16px; flex: none; }
+.profile h1 { margin: 0; }
